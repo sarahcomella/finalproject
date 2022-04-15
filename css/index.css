@@ -96,6 +96,8 @@ color: white;
     .productarea {
       flex-direction: column;
       margin-bottom: 20px;
+      margin-right: 0px;
+      margin-left: 0px;
     }
   }
 

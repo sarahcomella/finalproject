@@ -106,3 +106,9 @@ color: white;
         height: 250px;
     }
   }
+
+  @media only screen and (max-width: 800px) {
+    .footer {
+        font-size:small;
+    }
+  }

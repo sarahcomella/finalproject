@@ -91,3 +91,15 @@ color: white;
 
 
 }
+
+@media only screen and (max-width: 800px) {
+    .productarea {
+      flex-direction: column;
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    .productarea img {
+        height: 300px;
+    }
+  }

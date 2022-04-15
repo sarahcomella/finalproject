@@ -20,7 +20,7 @@
     display: flex;
 }
 .jumbotron {
-    background-image: src="./images/jumbotron2.png";
+    background-image: url("./images/jumbotron2.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;

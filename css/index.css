@@ -112,3 +112,9 @@ color: white;
         font-size:small;
     }
   }
+
+  @media only screen and (max-width: 800px) {
+    .jumbotron-fluid {
+        padding-bottom: 10px;
+    }
+  }
